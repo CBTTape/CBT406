@@ -1,12 +1,12 @@
-2025-04-15 02:10:51.747364 - Received CBT.V508.FILE406.PDS from FILE406.XMI 
-2025-04-15 02:10:51.748750 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/$$$#DATE
-2025-04-15 02:10:51.749086 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/$$NOTE01
-2025-04-15 02:10:51.749326 - Found @FILE406.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/@FILE406
-2025-04-15 02:10:51.749621 - Found CQX.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX
-2025-04-15 02:10:51.749778 - Found CQX$.jcl (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX$
-2025-04-15 02:10:51.750003 - Found CQX01.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX01
-2025-04-15 02:10:51.750339 - Found CQX02.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX02
-2025-04-15 02:10:51.750634 - Found CQX03.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX03
-2025-04-15 02:10:51.751188 - Found FIND.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/FIND
-2025-04-15 02:10:51.751350 - Found FIND$.jcl (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/FIND$
-2025-04-15 02:10:51.751871 - Found FIND01.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/FIND01
+2025-04-15 20:57:40.782897 - Received CBT.V508.FILE406.PDS from FILE406.XMI 
+2025-04-15 20:57:40.784300 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:57:40.784619 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/$$NOTE01
+2025-04-15 20:57:40.784672 - Found @FILE406.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/@FILE406
+2025-04-15 20:57:40.785024 - Found CQX.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX
+2025-04-15 20:57:40.785202 - Found CQX$.jcl (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX$
+2025-04-15 20:57:40.785403 - Found CQX01.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX01
+2025-04-15 20:57:40.785731 - Found CQX02.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX02
+2025-04-15 20:57:40.786346 - Found CQX03.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/CQX03
+2025-04-15 20:57:40.787011 - Found FIND.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/FIND
+2025-04-15 20:57:40.787204 - Found FIND$.jcl (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/FIND$
+2025-04-15 20:57:40.787830 - Found FIND01.txt (text/plain) in CBT.V508.FILE406.PDS, moved to PDS/FIND01
